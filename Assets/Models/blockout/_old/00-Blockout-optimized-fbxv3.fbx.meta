@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 23348388250e7424c873a09f2fcb13b6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Base
+    100004: Beanbag
+    100006: Bed
+    100008: Bed-main
+    100010: Bed-rug
+    100012: Bedroom-miscs
+    100014: Bin-clothes
+    100016: Books
+    100018: Building-column-base
+    100020: Building-foundation
+    100022: Building-roofrim
+    100024: Building-roofrim-dark
+    100026: Buildings
+    100028: Ceiling
+    100030: Chair
+    100032: Clothes-darkbundle
+    100034: Clouds
+    100036: Cove-shine
+    100038: Cove-stones
+    100040: Cove-upperwalls
+    100042: Cove-wood
+    100044: Dark-crevice
+    100046: Dark-green
+    100048: Decor
+    100050: Desk-clothes
+    100052: Desk-clothes 1
+    100054: Desk-clothes-handles
+    100056: desk-clothes-Wood
+    100058: Desk-computer
+    100060: Desk-computer 1
+    100062: Desk-computer-wood
+    100064: Desk-facing-leftside1
+    100066: Desk-facing-rightside1
+    100068: Desk-handle
+    100070: Desk-main
+    100072: Desk-main 1
+    100074: Desks
+    100076: Door
+    100078: Door-frame
+    100080: Door-mat
+    100082: Door-stopper
+    100084: Door-stuff
+    100086: Drawers
+    100088: Dreamzone
+    100090: Eye-iris
+    100092: Eye-iris-black
+    100094: EyeLids
+    100096: Fin
+    100098: Fin 1
+    100100: Fins-aquarium
+    100102: Fins-house
+    100104: Fins-house-darkgrey
+    100106: Fins-house-grey
+    100108: Floor
+    100110: Floor 1
+    100112: Glass
+    100114: Green
+    100116: Hallway
+    100118: Hamper
+    100120: Jeans
+    100122: NewGroup1
+    100124: NewLayer0
+    100126: Outside
+    100128: Painting
+    100130: Patio-door
+    100132: Patio-door-frame
+    100134: Patio-door-glass
+    100136: Patio-level0
+    100138: Patio-level1
+    100140: Patio-level2
+    100142: Patio-level3
+    100144: Patio-level4
+    100146: Patio-level5
+    100148: Patio-wood
+    100150: Patio-wood 1
+    100152: Patio-wood 2
+    100154: Patio-wood 3
+    100156: Patio-wood 4
+    100158: Patio-wood 5
+    100160: Patios
+    100162: Pillows
+    100164: Pink
+    100166: Pot
+    100168: Purp
+    100170: Purp-elements
+    100172: Quilt-pink
+    100174: Quilt-White
+    100176: Rail-dark
+    100178: Rail-dark 1
+    100180: Rail-dark 2
+    100182: Rail-dark 3
+    100184: Rail-dark 4
+    100186: Rail-dark 5
+    100188: Rocks
+    100190: Root
+    100192: Screen
+    100194: Shelf
+    100196: Shirt-blue
+    100198: Shirt-red
+    100200: Shirt-white
+    100202: Shrubbery
+    100204: Skin
+    100206: Socks-pink
+    100208: Socks-white
+    100210: Stardust
+    100212: Stars
+    100214: Stuffed
+    100216: Stumps
+    100218: Terrarium
+    100220: Terrarium-base
+    100222: Terrarium-glass
+    100224: Walls
+    100226: Walls 1
+    100228: Walls 2
+    100230: Wallwoodbase
+    100232: Water
+    100234: Waterfall
+    100236: Waterline
+    100238: Windows
+    100240: Wire
+    100242: wires
+    100244: Wood-frame
+    100246: Wood-handle
+    400000: //RootNode
+    400002: Base
+    400004: Beanbag
+    400006: Bed
+    400008: Bed-main
+    400010: Bed-rug
+    400012: Bedroom-miscs
+    400014: Bin-clothes
+    400016: Books
+    400018: Building-column-base
+    400020: Building-foundation
+    400022: Building-roofrim
+    400024: Building-roofrim-dark
+    400026: Buildings
+    400028: Ceiling
+    400030: Chair
+    400032: Clothes-darkbundle
+    400034: Clouds
+    400036: Cove-shine
+    400038: Cove-stones
+    400040: Cove-upperwalls
+    400042: Cove-wood
+    400044: Dark-crevice
+    400046: Dark-green
+    400048: Decor
+    400050: Desk-clothes
+    400052: Desk-clothes 1
+    400054: Desk-clothes-handles
+    400056: desk-clothes-Wood
+    400058: Desk-computer
+    400060: Desk-computer 1
+    400062: Desk-computer-wood
+    400064: Desk-facing-leftside1
+    400066: Desk-facing-rightside1
+    400068: Desk-handle
+    400070: Desk-main
+    400072: Desk-main 1
+    400074: Desks
+    400076: Door
+    400078: Door-frame
+    400080: Door-mat
+    400082: Door-stopper
+    400084: Door-stuff
+    400086: Drawers
+    400088: Dreamzone
+    400090: Eye-iris
+    400092: Eye-iris-black
+    400094: EyeLids
+    400096: Fin
+    400098: Fin 1
+    400100: Fins-aquarium
+    400102: Fins-house
+    400104: Fins-house-darkgrey
+    400106: Fins-house-grey
+    400108: Floor
+    400110: Floor 1
+    400112: Glass
+    400114: Green
+    400116: Hallway
+    400118: Hamper
+    400120: Jeans
+    400122: NewGroup1
+    400124: NewLayer0
+    400126: Outside
+    400128: Painting
+    400130: Patio-door
+    400132: Patio-door-frame
+    400134: Patio-door-glass
+    400136: Patio-level0
+    400138: Patio-level1
+    400140: Patio-level2
+    400142: Patio-level3
+    400144: Patio-level4
+    400146: Patio-level5
+    400148: Patio-wood
+    400150: Patio-wood 1
+    400152: Patio-wood 2
+    400154: Patio-wood 3
+    400156: Patio-wood 4
+    400158: Patio-wood 5
+    400160: Patios
+    400162: Pillows
+    400164: Pink
+    400166: Pot
+    400168: Purp
+    400170: Purp-elements
+    400172: Quilt-pink
+    400174: Quilt-White
+    400176: Rail-dark
+    400178: Rail-dark 1
+    400180: Rail-dark 2
+    400182: Rail-dark 3
+    400184: Rail-dark 4
+    400186: Rail-dark 5
+    400188: Rocks
+    400190: Root
+    400192: Screen
+    400194: Shelf
+    400196: Shirt-blue
+    400198: Shirt-red
+    400200: Shirt-white
+    400202: Shrubbery
+    400204: Skin
+    400206: Socks-pink
+    400208: Socks-white
+    400210: Stardust
+    400212: Stars
+    400214: Stuffed
+    400216: Stumps
+    400218: Terrarium
+    400220: Terrarium-base
+    400222: Terrarium-glass
+    400224: Walls
+    400226: Walls 1
+    400228: Walls 2
+    400230: Wallwoodbase
+    400232: Water
+    400234: Waterfall
+    400236: Waterline
+    400238: Windows
+    400240: Wire
+    400242: wires
+    400244: Wood-frame
+    400246: Wood-handle
+    2100000: Double Sided Material
+    2100002: Single Sided Material
+    2300000: Base
+    2300002: Beanbag
+    2300004: Bed-main
+    2300006: Bed-rug
+    2300008: Books
+    2300010: Building-column-base
+    2300012: Building-foundation
+    2300014: Building-roofrim
+    2300016: Building-roofrim-dark
+    2300018: Ceiling
+    2300020: Chair
+    2300022: Clothes-darkbundle
+    2300024: Clouds
+    2300026: Cove-shine
+    2300028: Cove-stones
+    2300030: Cove-upperwalls
+    2300032: Cove-wood
+    2300034: Dark-crevice
+    2300036: Dark-green
+    2300038: Desk-clothes-handles
+    2300040: desk-clothes-Wood
+    2300042: Desk-computer-wood
+    2300044: Desk-handle
+    2300046: Desk-main
+    2300048: Desk-main 1
+    2300050: Door
+    2300052: Door-frame
+    2300054: Door-mat
+    2300056: Door-stopper
+    2300058: Drawers
+    2300060: Eye-iris
+    2300062: Eye-iris-black
+    2300064: EyeLids
+    2300066: Fin 1
+    2300068: Fins-house-darkgrey
+    2300070: Fins-house-grey
+    2300072: Floor
+    2300074: Floor 1
+    2300076: Glass
+    2300078: Green
+    2300080: Hamper
+    2300082: Jeans
+    2300084: Painting
+    2300086: Patio-door-frame
+    2300088: Patio-door-glass
+    2300090: Patio-wood
+    2300092: Patio-wood 1
+    2300094: Patio-wood 2
+    2300096: Patio-wood 3
+    2300098: Patio-wood 4
+    2300100: Patio-wood 5
+    2300102: Pillows
+    2300104: Pink
+    2300106: Pot
+    2300108: Purp
+    2300110: Purp-elements
+    2300112: Quilt-pink
+    2300114: Quilt-White
+    2300116: Rail-dark
+    2300118: Rail-dark 1
+    2300120: Rail-dark 2
+    2300122: Rail-dark 3
+    2300124: Rail-dark 4
+    2300126: Rail-dark 5
+    2300128: Screen
+    2300130: Shelf
+    2300132: Shirt-blue
+    2300134: Shirt-red
+    2300136: Shirt-white
+    2300138: Shrubbery
+    2300140: Skin
+    2300142: Socks-pink
+    2300144: Socks-white
+    2300146: Stardust
+    2300148: Stars
+    2300150: Stuffed
+    2300152: Stumps
+    2300154: Terrarium-base
+    2300156: Terrarium-glass
+    2300158: Walls
+    2300160: Walls 1
+    2300162: Walls 2
+    2300164: Wallwoodbase
+    2300166: Water
+    2300168: Waterfall
+    2300170: Waterline
+    2300172: Wire
+    2300174: wires
+    2300176: Wood-frame
+    2300178: Wood-handle
+    3300000: Base
+    3300002: Beanbag
+    3300004: Bed-main
+    3300006: Bed-rug
+    3300008: Books
+    3300010: Building-column-base
+    3300012: Building-foundation
+    3300014: Building-roofrim
+    3300016: Building-roofrim-dark
+    3300018: Ceiling
+    3300020: Chair
+    3300022: Clothes-darkbundle
+    3300024: Clouds
+    3300026: Cove-shine
+    3300028: Cove-stones
+    3300030: Cove-upperwalls
+    3300032: Cove-wood
+    3300034: Dark-crevice
+    3300036: Dark-green
+    3300038: Desk-clothes-handles
+    3300040: desk-clothes-Wood
+    3300042: Desk-computer-wood
+    3300044: Desk-handle
+    3300046: Desk-main
+    3300048: Desk-main 1
+    3300050: Door
+    3300052: Door-frame
+    3300054: Door-mat
+    3300056: Door-stopper
+    3300058: Drawers
+    3300060: Eye-iris
+    3300062: Eye-iris-black
+    3300064: EyeLids
+    3300066: Fin 1
+    3300068: Fins-house-darkgrey
+    3300070: Fins-house-grey
+    3300072: Floor
+    3300074: Floor 1
+    3300076: Glass
+    3300078: Green
+    3300080: Hamper
+    3300082: Jeans
+    3300084: Painting
+    3300086: Patio-door-frame
+    3300088: Patio-door-glass
+    3300090: Patio-wood
+    3300092: Patio-wood 1
+    3300094: Patio-wood 2
+    3300096: Patio-wood 3
+    3300098: Patio-wood 4
+    3300100: Patio-wood 5
+    3300102: Pillows
+    3300104: Pink
+    3300106: Pot
+    3300108: Purp
+    3300110: Purp-elements
+    3300112: Quilt-pink
+    3300114: Quilt-White
+    3300116: Rail-dark
+    3300118: Rail-dark 1
+    3300120: Rail-dark 2
+    3300122: Rail-dark 3
+    3300124: Rail-dark 4
+    3300126: Rail-dark 5
+    3300128: Screen
+    3300130: Shelf
+    3300132: Shirt-blue
+    3300134: Shirt-red
+    3300136: Shirt-white
+    3300138: Shrubbery
+    3300140: Skin
+    3300142: Socks-pink
+    3300144: Socks-white
+    3300146: Stardust
+    3300148: Stars
+    3300150: Stuffed
+    3300152: Stumps
+    3300154: Terrarium-base
+    3300156: Terrarium-glass
+    3300158: Walls
+    3300160: Walls 1
+    3300162: Walls 2
+    3300164: Wallwoodbase
+    3300166: Water
+    3300168: Waterfall
+    3300170: Waterline
+    3300172: Wire
+    3300174: wires
+    3300176: Wood-frame
+    3300178: Wood-handle
+    4300000: Terrarium-glass
+    4300002: Terrarium-base
+    4300004: Eye-iris-black
+    4300006: Eye-iris
+    4300008: Fin
+    4300010: EyeLids
+    4300012: Skin
+    4300014: Water
+    4300016: Fins-house-grey
+    4300018: Fins-house-darkgrey
+    4300020: Glass
+    4300022: Purp
+    4300024: Dark-green
+    4300026: Green
+    4300028: Pink
+    4300030: Base
+    4300032: Patio-door-glass
+    4300034: Patio-door-frame
+    4300036: Door-frame
+    4300038: Door
+    4300040: Door-stopper
+    4300042: Door-mat
+    4300044: wires
+    4300046: Painting
+    4300048: Stardust
+    4300050: Wire
+    4300052: Stars
+    4300054: Floor
+    4300056: Bed-rug
+    4300058: Beanbag
+    4300060: Pot
+    4300062: Stuffed
+    4300064: Shrubbery
+    4300066: Books
+    4300068: Wallwoodbase
+    4300070: Walls
+    4300072: Shelf
+    4300074: Stumps
+    4300076: Pillows
+    4300078: Bed-main
+    4300080: Quilt-White
+    4300082: Quilt-pink
+    4300084: Desk-clothes-handles
+    4300086: Drawers
+    4300088: desk-clothes-Wood
+    4300090: Desk-handle
+    4300092: Desk-main
+    4300094: Dark-crevice
+    4300096: Wood-handle
+    4300098: Desk-main
+    4300100: Chair
+    4300102: Screen
+    4300104: Purp-elements
+    4300106: Desk-computer-wood
+    4300108: Wood-frame
+    4300110: Shirt-blue
+    4300112: Socks-pink
+    4300114: Socks-white
+    4300116: Shirt-white
+    4300118: Shirt-red
+    4300120: Jeans
+    4300122: Hamper
+    4300124: Clothes-darkbundle
+    4300126: Cove-wood
+    4300128: Cove-stones
+    4300130: Waterfall
+    4300132: Cove-shine
+    4300134: Cove-upperwalls
+    4300136: Waterline
+    4300138: Walls
+    4300140: Clouds
+    4300142: Rail-dark
+    4300144: Patio-wood
+    4300146: Rail-dark
+    4300148: Patio-wood
+    4300150: Rail-dark
+    4300152: Patio-wood
+    4300154: Rail-dark
+    4300156: Patio-wood
+    4300158: Rail-dark
+    4300160: Patio-wood
+    4300162: Rail-dark
+    4300164: Patio-wood
+    4300166: Building-roofrim-dark
+    4300168: Building-roofrim
+    4300170: Building-foundation
+    4300172: Building-column-base
+    4300174: Ceiling
+    4300176: Floor
+    4300178: Walls
+    6400000: Base
+    6400002: Beanbag
+    6400004: Bed-main
+    6400006: Bed-rug
+    6400008: Books
+    6400010: Building-column-base
+    6400012: Building-foundation
+    6400014: Building-roofrim
+    6400016: Building-roofrim-dark
+    6400018: Ceiling
+    6400020: Chair
+    6400022: Clothes-darkbundle
+    6400024: Clouds
+    6400026: Cove-shine
+    6400028: Cove-stones
+    6400030: Cove-upperwalls
+    6400032: Cove-wood
+    6400034: Dark-crevice
+    6400036: Dark-green
+    6400038: Desk-clothes-handles
+    6400040: desk-clothes-Wood
+    6400042: Desk-computer-wood
+    6400044: Desk-handle
+    6400046: Desk-main
+    6400048: Desk-main 1
+    6400050: Door
+    6400052: Door-frame
+    6400054: Door-mat
+    6400056: Door-stopper
+    6400058: Drawers
+    6400060: Eye-iris
+    6400062: Eye-iris-black
+    6400064: EyeLids
+    6400066: Fin 1
+    6400068: Fins-house-darkgrey
+    6400070: Fins-house-grey
+    6400072: Floor
+    6400074: Floor 1
+    6400076: Glass
+    6400078: Green
+    6400080: Hamper
+    6400082: Jeans
+    6400084: Painting
+    6400086: Patio-door-frame
+    6400088: Patio-door-glass
+    6400090: Patio-wood
+    6400092: Patio-wood 1
+    6400094: Patio-wood 2
+    6400096: Patio-wood 3
+    6400098: Patio-wood 4
+    6400100: Patio-wood 5
+    6400102: Pillows
+    6400104: Pink
+    6400106: Pot
+    6400108: Purp
+    6400110: Purp-elements
+    6400112: Quilt-pink
+    6400114: Quilt-White
+    6400116: Rail-dark
+    6400118: Rail-dark 1
+    6400120: Rail-dark 2
+    6400122: Rail-dark 3
+    6400124: Rail-dark 4
+    6400126: Rail-dark 5
+    6400128: Screen
+    6400130: Shelf
+    6400132: Shirt-blue
+    6400134: Shirt-red
+    6400136: Shirt-white
+    6400138: Shrubbery
+    6400140: Skin
+    6400142: Socks-pink
+    6400144: Socks-white
+    6400146: Stardust
+    6400148: Stars
+    6400150: Stuffed
+    6400152: Stumps
+    6400154: Terrarium-base
+    6400156: Terrarium-glass
+    6400158: Walls
+    6400160: Walls 1
+    6400162: Walls 2
+    6400164: Wallwoodbase
+    6400166: Water
+    6400168: Waterfall
+    6400170: Waterline
+    6400172: Wire
+    6400174: wires
+    6400176: Wood-frame
+    6400178: Wood-handle
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
