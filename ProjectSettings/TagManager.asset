@@ -8,6 +8,7 @@ TagManager:
   - Grabable
   - Underwater
   - Portal
+  - Joint Grab
   layers:
   - Default
   - TransparentFX
