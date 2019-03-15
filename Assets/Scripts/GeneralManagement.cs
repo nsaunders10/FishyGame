@@ -63,7 +63,7 @@ public class GeneralManagement : MonoBehaviour
                 //renderers[i].shadowCastingMode = UnityEngine.Rendering.ShadowCastingMode.On;
                 //renderers[i].enabled = true;
             }
-            else
+            if (!renderers[i].isVisible)
             {
                 // renderers[i].shadowCastingMode = UnityEngine.Rendering.ShadowCastingMode.Off;
                // renderers[i].enabled = false;
