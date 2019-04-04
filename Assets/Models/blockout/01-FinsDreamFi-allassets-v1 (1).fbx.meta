@@ -1,0 +1,1466 @@
+fileFormatVersion: 2
+guid: 743a7d82f30208449aabb4239784dac3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Algae-p
+    100004: Algae-p_0000
+    100006: Anchor
+    100008: Anchor_0000
+    100010: Anemone-p
+    100012: Anemone-p_0000
+    100014: Arm_l
+    100016: Arm_l 1
+    100018: Arm_l_0000
+    100020: Arm_r
+    100022: Arm_r 1
+    100024: Arm_r_0000
+    100026: Astronaut
+    100028: Astronaut-fella-base
+    100030: Astronaut-fella-base_0000
+    100032: Astronaut_0000
+    100034: Backpack
+    100036: Backpack-workspace
+    100038: Backpack-workspace_0000
+    100040: Barnacles-p
+    100042: Barnacles-p_0000
+    100044: Barrel-open
+    100046: Barrel-open_0000
+    100048: Base
+    100050: Base_0000
+    100052: Beanbag
+    100054: Beanbag_0000
+    100056: Bed
+    100058: Bed-main
+    100060: Bed-main_0000
+    100062: Bed-rug
+    100064: Bed-rug_0000
+    100066: Bedroom-miscs
+    100068: Bin-clothes
+    100070: Board
+    100072: Board_0000
+    100074: Bonsai
+    100076: Bonsai_0000
+    100078: Books
+    100080: Books_0000
+    100082: Bottle
+    100084: Bottle_0000
+    100086: Brushprop-ie
+    100088: Brushprop-ie_0000
+    100090: Brushset
+    100092: Building-column-base
+    100094: Building-column-base_0000
+    100096: Building-foundation
+    100098: Building-foundation_0000
+    100100: Building-roofrim
+    100102: Building-roofrim-dark
+    100104: Building-roofrim-dark_0000
+    100106: Building-roofrim_0000
+    100108: Buildings
+    100110: Bulletin
+    100112: bulletin-placed
+    100114: bulletin-placed_0000
+    100116: Cactus
+    100118: Cactus_0000
+    100120: Cat
+    100122: Cat_0000
+    100124: Cd-bits-p
+    100126: Cd-bits-p_0000
+    100128: Cd-rainbow-bits
+    100130: Cd-rainbow-bits_0000
+    100132: Ceiling
+    100134: Ceiling_0000
+    100136: Chainlink
+    100138: Chainlink_0000
+    100140: Chair
+    100142: Chair 1
+    100144: Chair-placed
+    100146: Chair-placed_0000
+    100148: Chair_0000
+    100150: Chair_0000 1
+    100152: Chest
+    100154: Chest-lid
+    100156: Chest-lid_0000
+    100158: Chest_0000
+    100160: Clothes-darkbundle
+    100162: Clothes-darkbundle_0000
+    100164: Clouds
+    100166: Clouds_0000
+    100168: Cove
+    100170: Cove-walls
+    100172: Cove-walls_0000
+    100174: Cove-wood
+    100176: Cove-wood_0000
+    100178: Crab
+    100180: Crab_0000
+    100182: Crabdud
+    100184: Crabdud 1
+    100186: Crabdud_0000
+    100188: Crane-fixture
+    100190: Crane-fixture_0000
+    100192: Dark-crevice
+    100194: Dark-crevice_0000
+    100196: Dark-green
+    100198: Dark-green_0000
+    100200: Decor
+    100202: Desk-clothes
+    100204: Desk-clothes 1
+    100206: Desk-clothes-handles
+    100208: Desk-clothes-handles_0000
+    100210: desk-clothes-Wood
+    100212: desk-clothes-Wood_0000
+    100214: Desk-computer
+    100216: Desk-computer 1
+    100218: Desk-computer-wood
+    100220: Desk-computer-wood_0000
+    100222: Desk-facing-leftside1
+    100224: Desk-facing-rightside1
+    100226: Desk-handle
+    100228: Desk-handle_0000
+    100230: Desk-main
+    100232: Desk-main 1
+    100234: Desk-main_0000
+    100236: Desk-main_0000 1
+    100238: Desks
+    100240: Digiparts
+    100242: Door
+    100244: Door-frame
+    100246: Door-frame_0000
+    100248: Door-mat
+    100250: Door-mat_0000
+    100252: Door-stopper
+    100254: Door-stopper_0000
+    100256: Door-stuff
+    100258: Door_0000
+    100260: Drawers
+    100262: Drawers_0000
+    100264: Dreamzone
+    100266: Earth
+    100268: Earth_0000
+    100270: Eye-iris
+    100272: Eye-iris-black
+    100274: Eye-iris-black_0000
+    100276: Eye-iris_0000
+    100278: EyeLids
+    100280: EyeLids_0000
+    100282: Fin
+    100284: Fin 1
+    100286: Fin-astro-scale
+    100288: Fin-astro-scale_0000
+    100290: Fin-moonscale
+    100292: Fin-moonscale_0000
+    100294: Fin_0000
+    100296: Fins-aquarium
+    100298: Fins-house
+    100300: Fins-house-darkgrey
+    100302: Fins-house-darkgrey_0000
+    100304: Fins-house-grey
+    100306: Fins-house-grey_0000
+    100308: Flag
+    100310: Flag_0000
+    100312: Floor
+    100314: Floor 1
+    100316: Floor_0000
+    100318: Floor_0000 1
+    100320: Friend
+    100322: Friend2
+    100324: Friend2_0000
+    100326: Friend_0000
+    100328: Ghostdoodles
+    100330: Ghostdoodles_0000
+    100332: Ghosties
+    100334: Ghosties_0000
+    100336: Girl
+    100338: Glass
+    100340: Glass_0000
+    100342: Green
+    100344: Green_0000
+    100346: Hallway
+    100348: Hamper
+    100350: Hamper_0000
+    100352: Hamsterball
+    100354: Hamsterball_0000
+    100356: Hamsterfriend
+    100358: Hamsterfriend_0000
+    100360: Hamsterset
+    100362: Haning-plant
+    100364: Haning-plant_0000
+    100366: Headphones
+    100368: Headphones-p
+    100370: Headphones-p_0000
+    100372: Headphones_0000
+    100374: Holes
+    100376: Holes_0000
+    100378: Jeans
+    100380: Jeans_0000
+    100382: Jellies
+    100384: Jellies_0000
+    100386: Key
+    100388: Key_0000
+    100390: Keychain
+    100392: Keychain_0000
+    100394: Kittycoffee
+    100396: Kittycoffee-jams
+    100398: Kittycoffee-jams_0000
+    100400: Kittycoffee_0000
+    100402: Lamps-p
+    100404: Lamps-p_0000
+    100406: Lantern-emiss
+    100408: Lantern-emiss_0000
+    100410: Lantern-shell
+    100412: Lantern-shell_0000
+    100414: Leaf-light
+    100416: Leaf-light_0000
+    100418: Leaves-units
+    100420: Moon-base
+    100422: Moon-base_0000
+    100424: Moon-bedroomscene
+    100426: Moon-bedroomscene_0000
+    100428: Moon-bits
+    100430: More-ship-parts
+    100432: Mouth
+    100434: Mouth 1
+    100436: Mouth 2
+    100438: Mouth_0000
+    100440: Mouth_0000 1
+    100442: Mouth_0000 2
+    100444: Mug
+    100446: Mug_0000
+    100448: Net
+    100450: Net_0000
+    100452: Netbase
+    100454: Netbase_0000
+    100456: NewGroup1
+    100458: NewLayer0
+    100460: NewLayer0 1
+    100462: NewLayer0_0000
+    100464: NewLayer0_0000 1
+    100466: Nightlight
+    100468: Nightlight 1
+    100470: Nightlight_0000
+    100472: Ocean-bits
+    100474: Origami-butterfly
+    100476: Origami-butterfly_0000
+    100478: Outside
+    100480: Ozone
+    100482: Ozone_0000
+    100484: Painting
+    100486: Painting_0000
+    100488: Patio
+    100490: Patio-door
+    100492: Patio-door-frame
+    100494: Patio-door-frame_0000
+    100496: Patio-door-glass
+    100498: Patio-door-glass_0000
+    100500: Patio-level0
+    100502: Patio-level1
+    100504: Patio-level2
+    100506: Patio-level3
+    100508: Patio-level4
+    100510: Patio-level5
+    100512: Patio-plant
+    100514: Patio-plant_0000
+    100516: Patio-plants-p
+    100518: Patio-plants-p_0000
+    100520: Patio-wood
+    100522: Patio-wood 1
+    100524: Patio-wood 2
+    100526: Patio-wood 3
+    100528: Patio-wood 4
+    100530: Patio-wood 5
+    100532: Patio-wood_0000
+    100534: Patio-wood_0000 1
+    100536: Patio-wood_0000 2
+    100538: Patio-wood_0000 3
+    100540: Patio-wood_0000 4
+    100542: Patio-wood_0000 5
+    100544: Patios
+    100546: Pillows
+    100548: Pillows_0000
+    100550: Pin1
+    100552: Pin1_0000
+    100554: Pin2
+    100556: Pin2_0000
+    100558: Pin3
+    100560: Pin3_0000
+    100562: Pin4
+    100564: Pin4_0000
+    100566: Pin5
+    100568: Pin5_0000
+    100570: Pink
+    100572: Pink_0000
+    100574: Placed
+    100576: Placed_0000
+    100578: Plants-grp
+    100580: Pod
+    100582: Pod_0000
+    100584: Pot
+    100586: Pot_0000
+    100588: Potbase
+    100590: Potbase_0000
+    100592: Propellerworkspace
+    100594: Propellerworkspace_0000
+    100596: Purp
+    100598: Purp-elements
+    100600: Purp-elements_0000
+    100602: Purp_0000
+    100604: Quilt-pink
+    100606: Quilt-pink_0000
+    100608: Quilt-White
+    100610: Quilt-White_0000
+    100612: Rail-dark
+    100614: Rail-dark 1
+    100616: Rail-dark 2
+    100618: Rail-dark 3
+    100620: Rail-dark 4
+    100622: Rail-dark 5
+    100624: Rail-dark_0000
+    100626: Rail-dark_0000 1
+    100628: Rail-dark_0000 2
+    100630: Rail-dark_0000 3
+    100632: Rail-dark_0000 4
+    100634: Rail-dark_0000 5
+    100636: Renov-workspace
+    100638: Renovation-placements-ocean
+    100640: Renovations
+    100642: Renovations_0000
+    100644: Rig
+    100646: Rig_0000
+    100648: Robodog
+    100650: Robodog_0000
+    100652: Robots
+    100654: Robots_0000
+    100656: Rocks
+    100658: Rocks 1
+    100660: Rocks_0000
+    100662: Room-bits
+    100664: Room_world
+    100666: Root
+    100668: Rope
+    100670: Sand
+    100672: Sand_0000
+    100674: Scene-skybox
+    100676: Screen
+    100678: Screen_0000
+    100680: Shelf
+    100682: Shelf_0000
+    100684: Ship-bits
+    100686: Ship-parts
+    100688: Ship-parts_0000
+    100690: Shipworkspace
+    100692: Shirt-blue
+    100694: Shirt-blue_0000
+    100696: Shirt-red
+    100698: Shirt-red_0000
+    100700: Shirt-white
+    100702: Shirt-white_0000
+    100704: shoe-box
+    100706: shoe-box_0000
+    100708: Shrubbery
+    100710: Shrubbery_0000
+    100712: Skin
+    100714: Skin_0000
+    100716: Sockdud1
+    100718: Sockdud1 1
+    100720: Sockdud1_0000
+    100722: Sockdud2
+    100724: Sockdud2 1
+    100726: Sockdud2_0000
+    100728: Sockdud3
+    100730: Sockdud3 1
+    100732: Sockdud3_0000
+    100734: Sockdudes
+    100736: Socks-pink
+    100738: Socks-pink_0000
+    100740: Socks-white
+    100742: Socks-white_0000
+    100744: Spaceship
+    100746: Spaceship_0000
+    100748: Stardust
+    100750: Stardust_0000
+    100752: Stars
+    100754: Stars 1
+    100756: Stars_0000
+    100758: Stars_0000 1
+    100760: Stones
+    100762: Stones_0000
+    100764: Stuff
+    100766: Stuff_0000
+    100768: Stuffed
+    100770: Stuffed_0000
+    100772: Stumps
+    100774: Stumps_0000
+    100776: Succ1
+    100778: Succ1_0000
+    100780: Succ2
+    100782: Succ2_0000
+    100784: Succ3
+    100786: Succ3_0000
+    100788: Succ4
+    100790: Succ4_0000
+    100792: Sun
+    100794: Sun_0000
+    100796: Tentacle1-p
+    100798: Tentacle1-p_0000
+    100800: Tentacle2-p
+    100802: Tentacle2-p_0000
+    100804: Terrarium
+    100806: Terrarium_0000
+    100808: Terrariumglass
+    100810: Terrariumglass_0000
+    100812: Thing
+    100814: Thing_0000
+    100816: thumb-claw_l
+    100818: thumb-claw_l_0000
+    100820: Thumb-claw_r
+    100822: Thumb-claw_r_0000
+    100824: Update
+    100826: Vent
+    100828: Vent_0000
+    100830: Walls
+    100832: Walls 1
+    100834: Walls 2
+    100836: Walls 3
+    100838: Walls2
+    100840: Walls2_0000
+    100842: Walls_0000
+    100844: Walls_0000 1
+    100846: Walls_0000 2
+    100848: Walls_0000 3
+    100850: Wallwoodbase
+    100852: Wallwoodbase_0000
+    100854: Water
+    100856: Water 1
+    100858: Water_0000
+    100860: Water_0000 1
+    100862: Watering-can
+    100864: Watering-can_0000
+    100866: Windows
+    100868: Wire
+    100870: Wire_0000
+    100872: wires
+    100874: wires_0000
+    100876: Wood-frame
+    100878: Wood-frame_0000
+    100880: Wood-handle
+    100882: Wood-handle_0000
+    400000: //RootNode
+    400002: Algae-p
+    400004: Algae-p_0000
+    400006: Anchor
+    400008: Anchor_0000
+    400010: Anemone-p
+    400012: Anemone-p_0000
+    400014: Arm_l
+    400016: Arm_l 1
+    400018: Arm_l_0000
+    400020: Arm_r
+    400022: Arm_r 1
+    400024: Arm_r_0000
+    400026: Astronaut
+    400028: Astronaut-fella-base
+    400030: Astronaut-fella-base_0000
+    400032: Astronaut_0000
+    400034: Backpack
+    400036: Backpack-workspace
+    400038: Backpack-workspace_0000
+    400040: Barnacles-p
+    400042: Barnacles-p_0000
+    400044: Barrel-open
+    400046: Barrel-open_0000
+    400048: Base
+    400050: Base_0000
+    400052: Beanbag
+    400054: Beanbag_0000
+    400056: Bed
+    400058: Bed-main
+    400060: Bed-main_0000
+    400062: Bed-rug
+    400064: Bed-rug_0000
+    400066: Bedroom-miscs
+    400068: Bin-clothes
+    400070: Board
+    400072: Board_0000
+    400074: Bonsai
+    400076: Bonsai_0000
+    400078: Books
+    400080: Books_0000
+    400082: Bottle
+    400084: Bottle_0000
+    400086: Brushprop-ie
+    400088: Brushprop-ie_0000
+    400090: Brushset
+    400092: Building-column-base
+    400094: Building-column-base_0000
+    400096: Building-foundation
+    400098: Building-foundation_0000
+    400100: Building-roofrim
+    400102: Building-roofrim-dark
+    400104: Building-roofrim-dark_0000
+    400106: Building-roofrim_0000
+    400108: Buildings
+    400110: Bulletin
+    400112: bulletin-placed
+    400114: bulletin-placed_0000
+    400116: Cactus
+    400118: Cactus_0000
+    400120: Cat
+    400122: Cat_0000
+    400124: Cd-bits-p
+    400126: Cd-bits-p_0000
+    400128: Cd-rainbow-bits
+    400130: Cd-rainbow-bits_0000
+    400132: Ceiling
+    400134: Ceiling_0000
+    400136: Chainlink
+    400138: Chainlink_0000
+    400140: Chair
+    400142: Chair 1
+    400144: Chair-placed
+    400146: Chair-placed_0000
+    400148: Chair_0000
+    400150: Chair_0000 1
+    400152: Chest
+    400154: Chest-lid
+    400156: Chest-lid_0000
+    400158: Chest_0000
+    400160: Clothes-darkbundle
+    400162: Clothes-darkbundle_0000
+    400164: Clouds
+    400166: Clouds_0000
+    400168: Cove
+    400170: Cove-walls
+    400172: Cove-walls_0000
+    400174: Cove-wood
+    400176: Cove-wood_0000
+    400178: Crab
+    400180: Crab_0000
+    400182: Crabdud
+    400184: Crabdud 1
+    400186: Crabdud_0000
+    400188: Crane-fixture
+    400190: Crane-fixture_0000
+    400192: Dark-crevice
+    400194: Dark-crevice_0000
+    400196: Dark-green
+    400198: Dark-green_0000
+    400200: Decor
+    400202: Desk-clothes
+    400204: Desk-clothes 1
+    400206: Desk-clothes-handles
+    400208: Desk-clothes-handles_0000
+    400210: desk-clothes-Wood
+    400212: desk-clothes-Wood_0000
+    400214: Desk-computer
+    400216: Desk-computer 1
+    400218: Desk-computer-wood
+    400220: Desk-computer-wood_0000
+    400222: Desk-facing-leftside1
+    400224: Desk-facing-rightside1
+    400226: Desk-handle
+    400228: Desk-handle_0000
+    400230: Desk-main
+    400232: Desk-main 1
+    400234: Desk-main_0000
+    400236: Desk-main_0000 1
+    400238: Desks
+    400240: Digiparts
+    400242: Door
+    400244: Door-frame
+    400246: Door-frame_0000
+    400248: Door-mat
+    400250: Door-mat_0000
+    400252: Door-stopper
+    400254: Door-stopper_0000
+    400256: Door-stuff
+    400258: Door_0000
+    400260: Drawers
+    400262: Drawers_0000
+    400264: Dreamzone
+    400266: Earth
+    400268: Earth_0000
+    400270: Eye-iris
+    400272: Eye-iris-black
+    400274: Eye-iris-black_0000
+    400276: Eye-iris_0000
+    400278: EyeLids
+    400280: EyeLids_0000
+    400282: Fin
+    400284: Fin 1
+    400286: Fin-astro-scale
+    400288: Fin-astro-scale_0000
+    400290: Fin-moonscale
+    400292: Fin-moonscale_0000
+    400294: Fin_0000
+    400296: Fins-aquarium
+    400298: Fins-house
+    400300: Fins-house-darkgrey
+    400302: Fins-house-darkgrey_0000
+    400304: Fins-house-grey
+    400306: Fins-house-grey_0000
+    400308: Flag
+    400310: Flag_0000
+    400312: Floor
+    400314: Floor 1
+    400316: Floor_0000
+    400318: Floor_0000 1
+    400320: Friend
+    400322: Friend2
+    400324: Friend2_0000
+    400326: Friend_0000
+    400328: Ghostdoodles
+    400330: Ghostdoodles_0000
+    400332: Ghosties
+    400334: Ghosties_0000
+    400336: Girl
+    400338: Glass
+    400340: Glass_0000
+    400342: Green
+    400344: Green_0000
+    400346: Hallway
+    400348: Hamper
+    400350: Hamper_0000
+    400352: Hamsterball
+    400354: Hamsterball_0000
+    400356: Hamsterfriend
+    400358: Hamsterfriend_0000
+    400360: Hamsterset
+    400362: Haning-plant
+    400364: Haning-plant_0000
+    400366: Headphones
+    400368: Headphones-p
+    400370: Headphones-p_0000
+    400372: Headphones_0000
+    400374: Holes
+    400376: Holes_0000
+    400378: Jeans
+    400380: Jeans_0000
+    400382: Jellies
+    400384: Jellies_0000
+    400386: Key
+    400388: Key_0000
+    400390: Keychain
+    400392: Keychain_0000
+    400394: Kittycoffee
+    400396: Kittycoffee-jams
+    400398: Kittycoffee-jams_0000
+    400400: Kittycoffee_0000
+    400402: Lamps-p
+    400404: Lamps-p_0000
+    400406: Lantern-emiss
+    400408: Lantern-emiss_0000
+    400410: Lantern-shell
+    400412: Lantern-shell_0000
+    400414: Leaf-light
+    400416: Leaf-light_0000
+    400418: Leaves-units
+    400420: Moon-base
+    400422: Moon-base_0000
+    400424: Moon-bedroomscene
+    400426: Moon-bedroomscene_0000
+    400428: Moon-bits
+    400430: More-ship-parts
+    400432: Mouth
+    400434: Mouth 1
+    400436: Mouth 2
+    400438: Mouth_0000
+    400440: Mouth_0000 1
+    400442: Mouth_0000 2
+    400444: Mug
+    400446: Mug_0000
+    400448: Net
+    400450: Net_0000
+    400452: Netbase
+    400454: Netbase_0000
+    400456: NewGroup1
+    400458: NewLayer0
+    400460: NewLayer0 1
+    400462: NewLayer0_0000
+    400464: NewLayer0_0000 1
+    400466: Nightlight
+    400468: Nightlight 1
+    400470: Nightlight_0000
+    400472: Ocean-bits
+    400474: Origami-butterfly
+    400476: Origami-butterfly_0000
+    400478: Outside
+    400480: Ozone
+    400482: Ozone_0000
+    400484: Painting
+    400486: Painting_0000
+    400488: Patio
+    400490: Patio-door
+    400492: Patio-door-frame
+    400494: Patio-door-frame_0000
+    400496: Patio-door-glass
+    400498: Patio-door-glass_0000
+    400500: Patio-level0
+    400502: Patio-level1
+    400504: Patio-level2
+    400506: Patio-level3
+    400508: Patio-level4
+    400510: Patio-level5
+    400512: Patio-plant
+    400514: Patio-plant_0000
+    400516: Patio-plants-p
+    400518: Patio-plants-p_0000
+    400520: Patio-wood
+    400522: Patio-wood 1
+    400524: Patio-wood 2
+    400526: Patio-wood 3
+    400528: Patio-wood 4
+    400530: Patio-wood 5
+    400532: Patio-wood_0000
+    400534: Patio-wood_0000 1
+    400536: Patio-wood_0000 2
+    400538: Patio-wood_0000 3
+    400540: Patio-wood_0000 4
+    400542: Patio-wood_0000 5
+    400544: Patios
+    400546: Pillows
+    400548: Pillows_0000
+    400550: Pin1
+    400552: Pin1_0000
+    400554: Pin2
+    400556: Pin2_0000
+    400558: Pin3
+    400560: Pin3_0000
+    400562: Pin4
+    400564: Pin4_0000
+    400566: Pin5
+    400568: Pin5_0000
+    400570: Pink
+    400572: Pink_0000
+    400574: Placed
+    400576: Placed_0000
+    400578: Plants-grp
+    400580: Pod
+    400582: Pod_0000
+    400584: Pot
+    400586: Pot_0000
+    400588: Potbase
+    400590: Potbase_0000
+    400592: Propellerworkspace
+    400594: Propellerworkspace_0000
+    400596: Purp
+    400598: Purp-elements
+    400600: Purp-elements_0000
+    400602: Purp_0000
+    400604: Quilt-pink
+    400606: Quilt-pink_0000
+    400608: Quilt-White
+    400610: Quilt-White_0000
+    400612: Rail-dark
+    400614: Rail-dark 1
+    400616: Rail-dark 2
+    400618: Rail-dark 3
+    400620: Rail-dark 4
+    400622: Rail-dark 5
+    400624: Rail-dark_0000
+    400626: Rail-dark_0000 1
+    400628: Rail-dark_0000 2
+    400630: Rail-dark_0000 3
+    400632: Rail-dark_0000 4
+    400634: Rail-dark_0000 5
+    400636: Renov-workspace
+    400638: Renovation-placements-ocean
+    400640: Renovations
+    400642: Renovations_0000
+    400644: Rig
+    400646: Rig_0000
+    400648: Robodog
+    400650: Robodog_0000
+    400652: Robots
+    400654: Robots_0000
+    400656: Rocks
+    400658: Rocks 1
+    400660: Rocks_0000
+    400662: Room-bits
+    400664: Room_world
+    400666: Root
+    400668: Rope
+    400670: Sand
+    400672: Sand_0000
+    400674: Scene-skybox
+    400676: Screen
+    400678: Screen_0000
+    400680: Shelf
+    400682: Shelf_0000
+    400684: Ship-bits
+    400686: Ship-parts
+    400688: Ship-parts_0000
+    400690: Shipworkspace
+    400692: Shirt-blue
+    400694: Shirt-blue_0000
+    400696: Shirt-red
+    400698: Shirt-red_0000
+    400700: Shirt-white
+    400702: Shirt-white_0000
+    400704: shoe-box
+    400706: shoe-box_0000
+    400708: Shrubbery
+    400710: Shrubbery_0000
+    400712: Skin
+    400714: Skin_0000
+    400716: Sockdud1
+    400718: Sockdud1 1
+    400720: Sockdud1_0000
+    400722: Sockdud2
+    400724: Sockdud2 1
+    400726: Sockdud2_0000
+    400728: Sockdud3
+    400730: Sockdud3 1
+    400732: Sockdud3_0000
+    400734: Sockdudes
+    400736: Socks-pink
+    400738: Socks-pink_0000
+    400740: Socks-white
+    400742: Socks-white_0000
+    400744: Spaceship
+    400746: Spaceship_0000
+    400748: Stardust
+    400750: Stardust_0000
+    400752: Stars
+    400754: Stars 1
+    400756: Stars_0000
+    400758: Stars_0000 1
+    400760: Stones
+    400762: Stones_0000
+    400764: Stuff
+    400766: Stuff_0000
+    400768: Stuffed
+    400770: Stuffed_0000
+    400772: Stumps
+    400774: Stumps_0000
+    400776: Succ1
+    400778: Succ1_0000
+    400780: Succ2
+    400782: Succ2_0000
+    400784: Succ3
+    400786: Succ3_0000
+    400788: Succ4
+    400790: Succ4_0000
+    400792: Sun
+    400794: Sun_0000
+    400796: Tentacle1-p
+    400798: Tentacle1-p_0000
+    400800: Tentacle2-p
+    400802: Tentacle2-p_0000
+    400804: Terrarium
+    400806: Terrarium_0000
+    400808: Terrariumglass
+    400810: Terrariumglass_0000
+    400812: Thing
+    400814: Thing_0000
+    400816: thumb-claw_l
+    400818: thumb-claw_l_0000
+    400820: Thumb-claw_r
+    400822: Thumb-claw_r_0000
+    400824: Update
+    400826: Vent
+    400828: Vent_0000
+    400830: Walls
+    400832: Walls 1
+    400834: Walls 2
+    400836: Walls 3
+    400838: Walls2
+    400840: Walls2_0000
+    400842: Walls_0000
+    400844: Walls_0000 1
+    400846: Walls_0000 2
+    400848: Walls_0000 3
+    400850: Wallwoodbase
+    400852: Wallwoodbase_0000
+    400854: Water
+    400856: Water 1
+    400858: Water_0000
+    400860: Water_0000 1
+    400862: Watering-can
+    400864: Watering-can_0000
+    400866: Windows
+    400868: Wire
+    400870: Wire_0000
+    400872: wires
+    400874: wires_0000
+    400876: Wood-frame
+    400878: Wood-frame_0000
+    400880: Wood-handle
+    400882: Wood-handle_0000
+    2100000: vertexColor_ubershader_vertColor_ubershader
+    2300000: Algae-p_0000
+    2300002: Anchor_0000
+    2300004: Anemone-p_0000
+    2300006: Arm_l_0000
+    2300008: Arm_r_0000
+    2300010: Astronaut-fella-base_0000
+    2300012: Astronaut_0000
+    2300014: Barnacles-p_0000
+    2300016: Barrel-open_0000
+    2300018: Base_0000
+    2300020: Bed-main_0000
+    2300022: Bed-rug_0000
+    2300024: Bonsai_0000
+    2300026: Books_0000
+    2300028: Bottle_0000
+    2300030: Brushprop-ie_0000
+    2300032: Building-column-base_0000
+    2300034: Building-foundation_0000
+    2300036: Building-roofrim-dark_0000
+    2300038: Building-roofrim_0000
+    2300040: bulletin-placed_0000
+    2300042: Cactus_0000
+    2300044: Cat_0000
+    2300046: Cd-bits-p_0000
+    2300048: Cd-rainbow-bits_0000
+    2300050: Chainlink_0000
+    2300052: Chair-placed_0000
+    2300054: Chest-lid_0000
+    2300056: Chest_0000
+    2300058: Clothes-darkbundle_0000
+    2300060: Clouds_0000
+    2300062: Cove-walls_0000
+    2300064: Cove-wood_0000
+    2300066: Crab_0000
+    2300068: Crabdud_0000
+    2300070: Crane-fixture_0000
+    2300072: Dark-crevice_0000
+    2300074: Dark-green_0000
+    2300076: Desk-clothes-handles_0000
+    2300078: desk-clothes-Wood_0000
+    2300080: Desk-computer-wood_0000
+    2300082: Desk-handle_0000
+    2300084: Desk-main_0000
+    2300086: Desk-main_0000 1
+    2300088: Door-frame_0000
+    2300090: Door-mat_0000
+    2300092: Door-stopper_0000
+    2300094: Door_0000
+    2300096: Drawers_0000
+    2300098: Earth_0000
+    2300100: Eye-iris-black_0000
+    2300102: Eye-iris_0000
+    2300104: EyeLids_0000
+    2300106: Fin-astro-scale_0000
+    2300108: Fin-moonscale_0000
+    2300110: Fin_0000
+    2300112: Fins-house-darkgrey_0000
+    2300114: Fins-house-grey_0000
+    2300116: Flag_0000
+    2300118: Floor_0000
+    2300120: Floor_0000 1
+    2300122: Friend2_0000
+    2300124: Friend_0000
+    2300126: Ghostdoodles_0000
+    2300128: Ghosties_0000
+    2300130: Glass_0000
+    2300132: Green_0000
+    2300134: Hamper_0000
+    2300136: Hamsterball_0000
+    2300138: Hamsterfriend_0000
+    2300140: Haning-plant_0000
+    2300142: Headphones-p_0000
+    2300144: Holes_0000
+    2300146: Jeans_0000
+    2300148: Jellies_0000
+    2300150: Key_0000
+    2300152: Keychain_0000
+    2300154: Kittycoffee_0000
+    2300156: Lamps-p_0000
+    2300158: Lantern-emiss_0000
+    2300160: Lantern-shell_0000
+    2300162: Moon-base_0000
+    2300164: Moon-bedroomscene_0000
+    2300166: Mouth_0000
+    2300168: Mouth_0000 1
+    2300170: Mouth_0000 2
+    2300172: Net_0000
+    2300174: Netbase_0000
+    2300176: NewLayer0_0000 1
+    2300178: Nightlight_0000
+    2300180: Origami-butterfly_0000
+    2300182: Ozone_0000
+    2300184: Painting_0000
+    2300186: Patio-door-frame_0000
+    2300188: Patio-door-glass_0000
+    2300190: Patio-plants-p_0000
+    2300192: Patio-wood_0000
+    2300194: Patio-wood_0000 1
+    2300196: Patio-wood_0000 2
+    2300198: Patio-wood_0000 3
+    2300200: Patio-wood_0000 4
+    2300202: Patio-wood_0000 5
+    2300204: Pillows_0000
+    2300206: Pink_0000
+    2300208: Placed_0000
+    2300210: Pod_0000
+    2300212: Pot_0000
+    2300214: Propellerworkspace_0000
+    2300216: Purp-elements_0000
+    2300218: Purp_0000
+    2300220: Quilt-pink_0000
+    2300222: Quilt-White_0000
+    2300224: Rail-dark_0000
+    2300226: Rail-dark_0000 1
+    2300228: Rail-dark_0000 2
+    2300230: Rail-dark_0000 3
+    2300232: Rail-dark_0000 4
+    2300234: Rail-dark_0000 5
+    2300236: Rig_0000
+    2300238: Robodog_0000
+    2300240: Robots_0000
+    2300242: Rocks_0000
+    2300244: Sand_0000
+    2300246: Shelf_0000
+    2300248: Ship-parts_0000
+    2300250: Shirt-blue_0000
+    2300252: Shirt-red_0000
+    2300254: Shirt-white_0000
+    2300256: shoe-box_0000
+    2300258: Shrubbery_0000
+    2300260: Skin_0000
+    2300262: Sockdud1_0000
+    2300264: Sockdud2_0000
+    2300266: Sockdud3_0000
+    2300268: Socks-pink_0000
+    2300270: Socks-white_0000
+    2300272: Spaceship_0000
+    2300274: Stardust_0000
+    2300276: Stars_0000
+    2300278: Stars_0000 1
+    2300280: Stones_0000
+    2300282: Stuff_0000
+    2300284: Stumps_0000
+    2300286: Sun_0000
+    2300288: Tentacle1-p_0000
+    2300290: Tentacle2-p_0000
+    2300292: Thing_0000
+    2300294: thumb-claw_l_0000
+    2300296: Thumb-claw_r_0000
+    2300298: Vent_0000
+    2300300: Walls2_0000
+    2300302: Walls_0000
+    2300304: Walls_0000 1
+    2300306: Walls_0000 2
+    2300308: Walls_0000 3
+    2300310: Wallwoodbase_0000
+    2300312: Water_0000
+    2300314: Water_0000 1
+    2300316: Watering-can_0000
+    2300318: Wire_0000
+    2300320: wires_0000
+    2300322: Wood-frame_0000
+    2300324: Wood-handle_0000
+    3300000: Algae-p_0000
+    3300002: Anchor_0000
+    3300004: Anemone-p_0000
+    3300006: Arm_l_0000
+    3300008: Arm_r_0000
+    3300010: Astronaut-fella-base_0000
+    3300012: Astronaut_0000
+    3300014: Barnacles-p_0000
+    3300016: Barrel-open_0000
+    3300018: Base_0000
+    3300020: Bed-main_0000
+    3300022: Bed-rug_0000
+    3300024: Bonsai_0000
+    3300026: Books_0000
+    3300028: Bottle_0000
+    3300030: Brushprop-ie_0000
+    3300032: Building-column-base_0000
+    3300034: Building-foundation_0000
+    3300036: Building-roofrim-dark_0000
+    3300038: Building-roofrim_0000
+    3300040: bulletin-placed_0000
+    3300042: Cactus_0000
+    3300044: Cat_0000
+    3300046: Cd-bits-p_0000
+    3300048: Cd-rainbow-bits_0000
+    3300050: Chainlink_0000
+    3300052: Chair-placed_0000
+    3300054: Chest-lid_0000
+    3300056: Chest_0000
+    3300058: Clothes-darkbundle_0000
+    3300060: Clouds_0000
+    3300062: Cove-walls_0000
+    3300064: Cove-wood_0000
+    3300066: Crab_0000
+    3300068: Crabdud_0000
+    3300070: Crane-fixture_0000
+    3300072: Dark-crevice_0000
+    3300074: Dark-green_0000
+    3300076: Desk-clothes-handles_0000
+    3300078: desk-clothes-Wood_0000
+    3300080: Desk-computer-wood_0000
+    3300082: Desk-handle_0000
+    3300084: Desk-main_0000
+    3300086: Desk-main_0000 1
+    3300088: Door-frame_0000
+    3300090: Door-mat_0000
+    3300092: Door-stopper_0000
+    3300094: Door_0000
+    3300096: Drawers_0000
+    3300098: Earth_0000
+    3300100: Eye-iris-black_0000
+    3300102: Eye-iris_0000
+    3300104: EyeLids_0000
+    3300106: Fin-astro-scale_0000
+    3300108: Fin-moonscale_0000
+    3300110: Fin_0000
+    3300112: Fins-house-darkgrey_0000
+    3300114: Fins-house-grey_0000
+    3300116: Flag_0000
+    3300118: Floor_0000
+    3300120: Floor_0000 1
+    3300122: Friend2_0000
+    3300124: Friend_0000
+    3300126: Ghostdoodles_0000
+    3300128: Ghosties_0000
+    3300130: Glass_0000
+    3300132: Green_0000
+    3300134: Hamper_0000
+    3300136: Hamsterball_0000
+    3300138: Hamsterfriend_0000
+    3300140: Haning-plant_0000
+    3300142: Headphones-p_0000
+    3300144: Holes_0000
+    3300146: Jeans_0000
+    3300148: Jellies_0000
+    3300150: Key_0000
+    3300152: Keychain_0000
+    3300154: Kittycoffee_0000
+    3300156: Lamps-p_0000
+    3300158: Lantern-emiss_0000
+    3300160: Lantern-shell_0000
+    3300162: Moon-base_0000
+    3300164: Moon-bedroomscene_0000
+    3300166: Mouth_0000
+    3300168: Mouth_0000 1
+    3300170: Mouth_0000 2
+    3300172: Net_0000
+    3300174: Netbase_0000
+    3300176: NewLayer0_0000 1
+    3300178: Nightlight_0000
+    3300180: Origami-butterfly_0000
+    3300182: Ozone_0000
+    3300184: Painting_0000
+    3300186: Patio-door-frame_0000
+    3300188: Patio-door-glass_0000
+    3300190: Patio-plants-p_0000
+    3300192: Patio-wood_0000
+    3300194: Patio-wood_0000 1
+    3300196: Patio-wood_0000 2
+    3300198: Patio-wood_0000 3
+    3300200: Patio-wood_0000 4
+    3300202: Patio-wood_0000 5
+    3300204: Pillows_0000
+    3300206: Pink_0000
+    3300208: Placed_0000
+    3300210: Pod_0000
+    3300212: Pot_0000
+    3300214: Propellerworkspace_0000
+    3300216: Purp-elements_0000
+    3300218: Purp_0000
+    3300220: Quilt-pink_0000
+    3300222: Quilt-White_0000
+    3300224: Rail-dark_0000
+    3300226: Rail-dark_0000 1
+    3300228: Rail-dark_0000 2
+    3300230: Rail-dark_0000 3
+    3300232: Rail-dark_0000 4
+    3300234: Rail-dark_0000 5
+    3300236: Rig_0000
+    3300238: Robodog_0000
+    3300240: Robots_0000
+    3300242: Rocks_0000
+    3300244: Sand_0000
+    3300246: Shelf_0000
+    3300248: Ship-parts_0000
+    3300250: Shirt-blue_0000
+    3300252: Shirt-red_0000
+    3300254: Shirt-white_0000
+    3300256: shoe-box_0000
+    3300258: Shrubbery_0000
+    3300260: Skin_0000
+    3300262: Sockdud1_0000
+    3300264: Sockdud2_0000
+    3300266: Sockdud3_0000
+    3300268: Socks-pink_0000
+    3300270: Socks-white_0000
+    3300272: Spaceship_0000
+    3300274: Stardust_0000
+    3300276: Stars_0000
+    3300278: Stars_0000 1
+    3300280: Stones_0000
+    3300282: Stuff_0000
+    3300284: Stumps_0000
+    3300286: Sun_0000
+    3300288: Tentacle1-p_0000
+    3300290: Tentacle2-p_0000
+    3300292: Thing_0000
+    3300294: thumb-claw_l_0000
+    3300296: Thumb-claw_r_0000
+    3300298: Vent_0000
+    3300300: Walls2_0000
+    3300302: Walls_0000
+    3300304: Walls_0000 1
+    3300306: Walls_0000 2
+    3300308: Walls_0000 3
+    3300310: Wallwoodbase_0000
+    3300312: Water_0000
+    3300314: Water_0000 1
+    3300316: Watering-can_0000
+    3300318: Wire_0000
+    3300320: wires_0000
+    3300322: Wood-frame_0000
+    3300324: Wood-handle_0000
+    4300000: Barnacles-p_0000
+    4300002: Lamps-p_0000
+    4300004: Tentacle2-p_0000
+    4300006: Tentacle1-p_0000
+    4300008: Holes_0000
+    4300010: Rocks_0000
+    4300012: Stones_0000
+    4300014: Walls2_0000
+    4300016: Walls_0000
+    4300018: Jellies_0000
+    4300020: Placed_0000
+    4300022: Cd-bits-p_0000
+    4300024: Anemone-p_0000
+    4300026: Algae-p_0000
+    4300028: Stuff_0000
+    4300030: Cd-rainbow-bits_0000
+    4300032: Sand_0000
+    4300034: Moon-bedroomscene_0000
+    4300036: Cove-walls_0000
+    4300038: Water_0000
+    4300040: Mouth_0000
+    4300042: Sockdud2_0000
+    4300044: Sockdud1_0000
+    4300046: Mouth_0000
+    4300048: Mouth_0000
+    4300050: Sockdud3_0000
+    4300052: Brushprop-ie_0000
+    4300054: Hamsterfriend_0000
+    4300056: Propellerworkspace_0000
+    4300058: Hamsterball_0000
+    4300060: Arm_l_0000
+    4300062: thumb-claw_l_0000
+    4300064: Arm_r_0000
+    4300066: Thumb-claw_r_0000
+    4300068: Crabdud_0000
+    4300070: Haning-plant_0000
+    4300072: Bonsai_0000
+    4300074: Cactus_0000
+    4300076: Patio-plants-p_0000
+    4300078: Chair-placed_0000
+    4300080: Watering-can_0000
+    4300082: Barrel-open_0000
+    4300084: Netbase_0000
+    4300086: Bottle_0000
+    4300088: Thing_0000
+    4300090: Net_0000
+    4300092: Lantern-emiss_0000
+    4300094: Lantern-shell_0000
+    4300096: Chainlink_0000
+    4300098: Anchor_0000
+    4300100: Key_0000
+    4300102: Chest-lid_0000
+    4300104: Ship-parts_0000
+    4300106: Chest_0000
+    4300108: NewLayer0_0000
+    4300110: bulletin-placed_0000
+    4300112: Nightlight_0000
+    4300114: Robodog_0000
+    4300116: Rig_0000
+    4300118: Keychain_0000
+    4300120: Fin-astro-scale_0000
+    4300122: shoe-box_0000
+    4300124: Crane-fixture_0000
+    4300126: Vent_0000
+    4300128: Cat_0000
+    4300130: Origami-butterfly_0000
+    4300132: Ghosties_0000
+    4300134: Friend2_0000
+    4300136: Friend_0000
+    4300138: Headphones-p_0000
+    4300140: Kittycoffee_0000
+    4300142: Sun_0000
+    4300144: Ozone_0000
+    4300146: Earth_0000
+    4300148: Moon-base_0000
+    4300150: Stars_0000
+    4300152: Fin-moonscale_0000
+    4300154: Flag_0000
+    4300156: Astronaut_0000
+    4300158: Astronaut-fella-base_0000
+    4300160: Spaceship_0000
+    4300162: Crab_0000
+    4300164: Pod_0000
+    4300166: Robots_0000
+    4300168: Ghostdoodles_0000
+    4300170: Eye-iris-black_0000
+    4300172: Eye-iris_0000
+    4300174: Fin_0000
+    4300176: EyeLids_0000
+    4300178: Skin_0000
+    4300180: Water_0000
+    4300182: Fins-house-grey_0000
+    4300184: Fins-house-darkgrey_0000
+    4300186: Glass_0000
+    4300188: Purp_0000
+    4300190: Dark-green_0000
+    4300192: Green_0000
+    4300194: Pink_0000
+    4300196: Base_0000
+    4300198: Patio-door-glass_0000
+    4300200: Patio-door-frame_0000
+    4300202: Door-frame_0000
+    4300204: Door_0000
+    4300206: Door-stopper_0000
+    4300208: Door-mat_0000
+    4300210: wires_0000
+    4300212: Painting_0000
+    4300214: Stardust_0000
+    4300216: Wire_0000
+    4300218: Stars_0000
+    4300220: Floor_0000
+    4300222: Bed-rug_0000
+    4300224: Pot_0000
+    4300226: Shrubbery_0000
+    4300228: Books_0000
+    4300230: Wallwoodbase_0000
+    4300232: Walls_0000
+    4300234: Shelf_0000
+    4300236: Stumps_0000
+    4300238: Pillows_0000
+    4300240: Bed-main_0000
+    4300242: Quilt-White_0000
+    4300244: Quilt-pink_0000
+    4300246: Desk-clothes-handles_0000
+    4300248: Drawers_0000
+    4300250: desk-clothes-Wood_0000
+    4300252: Desk-handle_0000
+    4300254: Desk-main_0000
+    4300256: Dark-crevice_0000
+    4300258: Wood-handle_0000
+    4300260: Desk-main_0000
+    4300262: Purp-elements_0000
+    4300264: Desk-computer-wood_0000
+    4300266: Wood-frame_0000
+    4300268: Shirt-blue_0000
+    4300270: Socks-pink_0000
+    4300272: Socks-white_0000
+    4300274: Shirt-white_0000
+    4300276: Shirt-red_0000
+    4300278: Jeans_0000
+    4300280: Hamper_0000
+    4300282: Clothes-darkbundle_0000
+    4300284: Cove-wood_0000
+    4300286: Walls_0000
+    4300288: Clouds_0000
+    4300290: Rail-dark_0000
+    4300292: Patio-wood_0000
+    4300294: Rail-dark_0000
+    4300296: Patio-wood_0000
+    4300298: Rail-dark_0000
+    4300300: Patio-wood_0000
+    4300302: Rail-dark_0000
+    4300304: Patio-wood_0000
+    4300306: Rail-dark_0000
+    4300308: Patio-wood_0000
+    4300310: Rail-dark_0000
+    4300312: Patio-wood_0000
+    4300314: Building-roofrim-dark_0000
+    4300316: Building-roofrim_0000
+    4300318: Building-foundation_0000
+    4300320: Building-column-base_0000
+    4300322: Floor_0000
+    4300324: Walls_0000
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

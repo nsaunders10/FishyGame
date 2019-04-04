@@ -6,6 +6,7 @@ public class CanYouGetThis : MonoBehaviour
 {
 
     GameObject player;
+    Animator anim;
     public GameObject correctObject;
     public Transform correctSpot;
     public GameObject correctText;
@@ -24,6 +25,7 @@ public class CanYouGetThis : MonoBehaviour
     {
         player = GameObject.Find("Fin");
         speed = 0;
+        anim = GetComponent<Animator>();
     }
 
     void FixedUpdate()
@@ -76,6 +78,10 @@ public class CanYouGetThis : MonoBehaviour
             correctObject.transform.parent = transform;           
             correctObject.tag = "Untagged";
             correctText.GetComponent<TextMesh>().text = thanksText;
+        }
+        if(anim != null)
+        {
+            anim.SetBool("Move", correctText.activeInHierarchy);
         }
     }
 }

@@ -1,0 +1,1137 @@
+fileFormatVersion: 2
+guid: 0068858924004d8499bc7f97285559e3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Algae
+    100004: Algae-p
+    100006: Anchor
+    100008: Anemone
+    100010: Anemone-p
+    100012: Anemone2
+    100014: Astronaut
+    100016: Astronaut-fella-base
+    100018: barnacles
+    100020: Barnacles-p
+    100022: Barrel-open
+    100024: Base
+    100026: Beanbag
+    100028: Bed
+    100030: Bed-main
+    100032: Bed-rug
+    100034: Bedroom-miscs
+    100036: Bedsleep
+    100038: Bin-clothes
+    100040: Board
+    100042: Bonsai
+    100044: Books
+    100046: Bottle
+    100048: Brushprop-ie
+    100050: Brushset
+    100052: Building-column-base
+    100054: Building-foundation
+    100056: Building-roofrim
+    100058: Building-roofrim-dark
+    100060: Buildings
+    100062: Bulletin
+    100064: bulletin-placed
+    100066: Cactus
+    100068: Cat
+    100070: Cd-bits-p
+    100072: Cd-rainbow-bits
+    100074: Cd-rocks
+    100076: Ceiling
+    100078: Chainlink
+    100080: Chair
+    100082: Chair 1
+    100084: Chair-placed
+    100086: Chest
+    100088: Chest-lid
+    100090: Clothes-darkbundle
+    100092: Clouds
+    100094: Coral
+    100096: Coral2
+    100098: Cove
+    100100: Crab
+    100102: Crabdud
+    100104: Crabdud 1
+    100106: Crane-fixture
+    100108: Dark-crevice
+    100110: Dark-green
+    100112: Decor
+    100114: Desk-clothes
+    100116: Desk-clothes 1
+    100118: Desk-clothes-handles
+    100120: desk-clothes-Wood
+    100122: Desk-computer
+    100124: Desk-computer 1
+    100126: Desk-computer-wood
+    100128: Desk-facing-leftside1
+    100130: Desk-facing-rightside1
+    100132: Desk-handle
+    100134: Desk-main
+    100136: Desk-main 1
+    100138: Desks
+    100140: Door
+    100142: Door-frame
+    100144: Door-mat
+    100146: Door-stopper
+    100148: Door-stuff
+    100150: Drawers
+    100152: Dreamzone
+    100154: Earth
+    100156: Eye-iris
+    100158: Eye-iris-black
+    100160: EyeLids
+    100162: Fin
+    100164: Fin 1
+    100166: Fin-astro-scale
+    100168: Fin-moonscale
+    100170: Fins-aquarium
+    100172: Fins-house
+    100174: Fins-house-darkgrey
+    100176: Fins-house-grey
+    100178: Flag
+    100180: Floor
+    100182: Floor 1
+    100184: Friend
+    100186: Friend2
+    100188: Ghosties
+    100190: Girl
+    100192: Glass
+    100194: Green
+    100196: Hair
+    100198: Hallway
+    100200: Hamper
+    100202: Hamsterball
+    100204: Hamsterfriend
+    100206: Hamsterset
+    100208: Haning-plant
+    100210: Headphones
+    100212: Headphones-p
+    100214: Holes
+    100216: Hook-things
+    100218: Jeans
+    100220: Jellies
+    100222: Jelly
+    100224: Key
+    100226: Kittycoffee
+    100228: Kittycoffee-jams
+    100230: Lamps-p
+    100232: Lantern
+    100234: Leaf-light
+    100236: Leaves-units
+    100238: Moon-base
+    100240: Moon-bedroomscene
+    100242: Moon-bits
+    100244: Mouth
+    100246: Mouth 1
+    100248: Mouth 2
+    100250: Mug
+    100252: Neonbits
+    100254: Net
+    100256: Netbase
+    100258: NewGroup1
+    100260: NewLayer0
+    100262: NewLayer0 1
+    100264: Nightlight
+    100266: Nightlight 1
+    100268: Ocean-bits
+    100270: Oceanrock
+    100272: oceanshelf
+    100274: Origami-butterfly
+    100276: Outside
+    100278: Ozone
+    100280: Painting
+    100282: Patio
+    100284: Patio-door
+    100286: Patio-door-frame
+    100288: Patio-door-glass
+    100290: Patio-level0
+    100292: Patio-level1
+    100294: Patio-level2
+    100296: Patio-level3
+    100298: Patio-level4
+    100300: Patio-level5
+    100302: Patio-plant
+    100304: Patio-plants-p
+    100306: Patio-wood
+    100308: Patio-wood 1
+    100310: Patio-wood 2
+    100312: Patio-wood 3
+    100314: Patio-wood 4
+    100316: Patio-wood 5
+    100318: Patios
+    100320: Pillows
+    100322: Pin1
+    100324: Pin2
+    100326: Pin3
+    100328: Pin4
+    100330: Pin5
+    100332: Pink
+    100334: Placed
+    100336: Plants-grp
+    100338: Pod
+    100340: Pot
+    100342: Potbase
+    100344: Propellerworkspace
+    100346: Purp
+    100348: Purp-elements
+    100350: Quilt-pink
+    100352: Quilt-White
+    100354: Rail-dark
+    100356: Rail-dark 1
+    100358: Rail-dark 2
+    100360: Rail-dark 3
+    100362: Rail-dark 4
+    100364: Rail-dark 5
+    100366: Renov-workspace
+    100368: Renovation-placements-ocean
+    100370: Renovations
+    100372: Robots
+    100374: Rocklamp
+    100376: Rocks
+    100378: Rocks 1
+    100380: Room-bits
+    100382: Room_world
+    100384: Root
+    100386: Rope
+    100388: Sand
+    100390: Scene-skybox
+    100392: Screen
+    100394: Seaweed
+    100396: Shelf
+    100398: Ship-bits
+    100400: Ship-parts
+    100402: Shirt-blue
+    100404: Shirt-red
+    100406: Shirt-white
+    100408: shoe-box
+    100410: Shrubbery
+    100412: Skin
+    100414: Sleep-workspace
+    100416: Snowman
+    100418: Sockdud1
+    100420: Sockdud1 1
+    100422: Sockdud2
+    100424: Sockdud2 1
+    100426: Sockdud3
+    100428: Sockdud3 1
+    100430: Sockdudes
+    100432: Socks-pink
+    100434: Socks-white
+    100436: Spaceship
+    100438: Stardust
+    100440: Stars
+    100442: Stars 1
+    100444: Stones
+    100446: Stones 1
+    100448: Stuff
+    100450: Stuffed
+    100452: Stumps
+    100454: Succ1
+    100456: Succ2
+    100458: Succ3
+    100460: Succ4
+    100462: Sun
+    100464: Tentacle
+    100466: Tentacle-rocks
+    100468: Tentacle1-p
+    100470: Tentacle2-p
+    100472: Terrarium
+    100474: Terrariumglass
+    100476: Thing
+    100478: Update
+    100480: Walls
+    100482: Walls 1
+    100484: Walls 2
+    100486: Walls2
+    100488: Wallwoodbase
+    100490: Water
+    100492: Water 1
+    100494: Watering-can
+    100496: Windows
+    100498: Wire
+    100500: wires
+    100502: Wood-frame
+    100504: Wood-handle
+    400000: //RootNode
+    400002: Algae
+    400004: Algae-p
+    400006: Anchor
+    400008: Anemone
+    400010: Anemone-p
+    400012: Anemone2
+    400014: Astronaut
+    400016: Astronaut-fella-base
+    400018: barnacles
+    400020: Barnacles-p
+    400022: Barrel-open
+    400024: Base
+    400026: Beanbag
+    400028: Bed
+    400030: Bed-main
+    400032: Bed-rug
+    400034: Bedroom-miscs
+    400036: Bedsleep
+    400038: Bin-clothes
+    400040: Board
+    400042: Bonsai
+    400044: Books
+    400046: Bottle
+    400048: Brushprop-ie
+    400050: Brushset
+    400052: Building-column-base
+    400054: Building-foundation
+    400056: Building-roofrim
+    400058: Building-roofrim-dark
+    400060: Buildings
+    400062: Bulletin
+    400064: bulletin-placed
+    400066: Cactus
+    400068: Cat
+    400070: Cd-bits-p
+    400072: Cd-rainbow-bits
+    400074: Cd-rocks
+    400076: Ceiling
+    400078: Chainlink
+    400080: Chair
+    400082: Chair 1
+    400084: Chair-placed
+    400086: Chest
+    400088: Chest-lid
+    400090: Clothes-darkbundle
+    400092: Clouds
+    400094: Coral
+    400096: Coral2
+    400098: Cove
+    400100: Crab
+    400102: Crabdud
+    400104: Crabdud 1
+    400106: Crane-fixture
+    400108: Dark-crevice
+    400110: Dark-green
+    400112: Decor
+    400114: Desk-clothes
+    400116: Desk-clothes 1
+    400118: Desk-clothes-handles
+    400120: desk-clothes-Wood
+    400122: Desk-computer
+    400124: Desk-computer 1
+    400126: Desk-computer-wood
+    400128: Desk-facing-leftside1
+    400130: Desk-facing-rightside1
+    400132: Desk-handle
+    400134: Desk-main
+    400136: Desk-main 1
+    400138: Desks
+    400140: Door
+    400142: Door-frame
+    400144: Door-mat
+    400146: Door-stopper
+    400148: Door-stuff
+    400150: Drawers
+    400152: Dreamzone
+    400154: Earth
+    400156: Eye-iris
+    400158: Eye-iris-black
+    400160: EyeLids
+    400162: Fin
+    400164: Fin 1
+    400166: Fin-astro-scale
+    400168: Fin-moonscale
+    400170: Fins-aquarium
+    400172: Fins-house
+    400174: Fins-house-darkgrey
+    400176: Fins-house-grey
+    400178: Flag
+    400180: Floor
+    400182: Floor 1
+    400184: Friend
+    400186: Friend2
+    400188: Ghosties
+    400190: Girl
+    400192: Glass
+    400194: Green
+    400196: Hair
+    400198: Hallway
+    400200: Hamper
+    400202: Hamsterball
+    400204: Hamsterfriend
+    400206: Hamsterset
+    400208: Haning-plant
+    400210: Headphones
+    400212: Headphones-p
+    400214: Holes
+    400216: Hook-things
+    400218: Jeans
+    400220: Jellies
+    400222: Jelly
+    400224: Key
+    400226: Kittycoffee
+    400228: Kittycoffee-jams
+    400230: Lamps-p
+    400232: Lantern
+    400234: Leaf-light
+    400236: Leaves-units
+    400238: Moon-base
+    400240: Moon-bedroomscene
+    400242: Moon-bits
+    400244: Mouth
+    400246: Mouth 1
+    400248: Mouth 2
+    400250: Mug
+    400252: Neonbits
+    400254: Net
+    400256: Netbase
+    400258: NewGroup1
+    400260: NewLayer0
+    400262: NewLayer0 1
+    400264: Nightlight
+    400266: Nightlight 1
+    400268: Ocean-bits
+    400270: Oceanrock
+    400272: oceanshelf
+    400274: Origami-butterfly
+    400276: Outside
+    400278: Ozone
+    400280: Painting
+    400282: Patio
+    400284: Patio-door
+    400286: Patio-door-frame
+    400288: Patio-door-glass
+    400290: Patio-level0
+    400292: Patio-level1
+    400294: Patio-level2
+    400296: Patio-level3
+    400298: Patio-level4
+    400300: Patio-level5
+    400302: Patio-plant
+    400304: Patio-plants-p
+    400306: Patio-wood
+    400308: Patio-wood 1
+    400310: Patio-wood 2
+    400312: Patio-wood 3
+    400314: Patio-wood 4
+    400316: Patio-wood 5
+    400318: Patios
+    400320: Pillows
+    400322: Pin1
+    400324: Pin2
+    400326: Pin3
+    400328: Pin4
+    400330: Pin5
+    400332: Pink
+    400334: Placed
+    400336: Plants-grp
+    400338: Pod
+    400340: Pot
+    400342: Potbase
+    400344: Propellerworkspace
+    400346: Purp
+    400348: Purp-elements
+    400350: Quilt-pink
+    400352: Quilt-White
+    400354: Rail-dark
+    400356: Rail-dark 1
+    400358: Rail-dark 2
+    400360: Rail-dark 3
+    400362: Rail-dark 4
+    400364: Rail-dark 5
+    400366: Renov-workspace
+    400368: Renovation-placements-ocean
+    400370: Renovations
+    400372: Robots
+    400374: Rocklamp
+    400376: Rocks
+    400378: Rocks 1
+    400380: Room-bits
+    400382: Room_world
+    400384: Root
+    400386: Rope
+    400388: Sand
+    400390: Scene-skybox
+    400392: Screen
+    400394: Seaweed
+    400396: Shelf
+    400398: Ship-bits
+    400400: Ship-parts
+    400402: Shirt-blue
+    400404: Shirt-red
+    400406: Shirt-white
+    400408: shoe-box
+    400410: Shrubbery
+    400412: Skin
+    400414: Sleep-workspace
+    400416: Snowman
+    400418: Sockdud1
+    400420: Sockdud1 1
+    400422: Sockdud2
+    400424: Sockdud2 1
+    400426: Sockdud3
+    400428: Sockdud3 1
+    400430: Sockdudes
+    400432: Socks-pink
+    400434: Socks-white
+    400436: Spaceship
+    400438: Stardust
+    400440: Stars
+    400442: Stars 1
+    400444: Stones
+    400446: Stones 1
+    400448: Stuff
+    400450: Stuffed
+    400452: Stumps
+    400454: Succ1
+    400456: Succ2
+    400458: Succ3
+    400460: Succ4
+    400462: Sun
+    400464: Tentacle
+    400466: Tentacle-rocks
+    400468: Tentacle1-p
+    400470: Tentacle2-p
+    400472: Terrarium
+    400474: Terrariumglass
+    400476: Thing
+    400478: Update
+    400480: Walls
+    400482: Walls 1
+    400484: Walls 2
+    400486: Walls2
+    400488: Wallwoodbase
+    400490: Water
+    400492: Water 1
+    400494: Watering-can
+    400496: Windows
+    400498: Wire
+    400500: wires
+    400502: Wood-frame
+    400504: Wood-handle
+    2100000: Single Sided Material
+    2100002: Double Sided Material
+    2300000: Algae
+    2300002: Algae-p
+    2300004: Anchor
+    2300006: Anemone
+    2300008: Anemone-p
+    2300010: Anemone2
+    2300012: Astronaut
+    2300014: Astronaut-fella-base
+    2300016: barnacles
+    2300018: Barnacles-p
+    2300020: Barrel-open
+    2300022: Base
+    2300024: Bed-main
+    2300026: Bed-rug
+    2300028: Bedsleep
+    2300030: Bonsai
+    2300032: Books
+    2300034: Bottle
+    2300036: Brushprop-ie
+    2300038: Building-column-base
+    2300040: Building-foundation
+    2300042: Building-roofrim
+    2300044: Building-roofrim-dark
+    2300046: bulletin-placed
+    2300048: Cactus
+    2300050: Cat
+    2300052: Cd-bits-p
+    2300054: Cd-rainbow-bits
+    2300056: Cd-rocks
+    2300058: Ceiling
+    2300060: Chainlink
+    2300062: Chair 1
+    2300064: Chair-placed
+    2300066: Chest
+    2300068: Chest-lid
+    2300070: Clothes-darkbundle
+    2300072: Clouds
+    2300074: Coral
+    2300076: Coral2
+    2300078: Crab
+    2300080: Crabdud 1
+    2300082: Crane-fixture
+    2300084: Dark-crevice
+    2300086: Dark-green
+    2300088: Desk-clothes-handles
+    2300090: desk-clothes-Wood
+    2300092: Desk-computer-wood
+    2300094: Desk-handle
+    2300096: Desk-main
+    2300098: Desk-main 1
+    2300100: Door
+    2300102: Door-frame
+    2300104: Door-mat
+    2300106: Door-stopper
+    2300108: Drawers
+    2300110: Earth
+    2300112: Eye-iris
+    2300114: Eye-iris-black
+    2300116: EyeLids
+    2300118: Fin 1
+    2300120: Fin-astro-scale
+    2300122: Fin-moonscale
+    2300124: Fins-house-darkgrey
+    2300126: Fins-house-grey
+    2300128: Flag
+    2300130: Floor
+    2300132: Floor 1
+    2300134: Friend
+    2300136: Friend2
+    2300138: Ghosties
+    2300140: Glass
+    2300142: Green
+    2300144: Hair
+    2300146: Hamper
+    2300148: Hamsterball
+    2300150: Hamsterfriend
+    2300152: Haning-plant
+    2300154: Headphones-p
+    2300156: Holes
+    2300158: Hook-things
+    2300160: Jeans
+    2300162: Jellies
+    2300164: Jelly
+    2300166: Key
+    2300168: Kittycoffee
+    2300170: Lamps-p
+    2300172: Lantern
+    2300174: Leaf-light
+    2300176: Moon-base
+    2300178: Moon-bedroomscene
+    2300180: Mouth
+    2300182: Mouth 1
+    2300184: Mouth 2
+    2300186: Neonbits
+    2300188: Net
+    2300190: Netbase
+    2300192: NewLayer0 1
+    2300194: Nightlight 1
+    2300196: Oceanrock
+    2300198: oceanshelf
+    2300200: Origami-butterfly
+    2300202: Ozone
+    2300204: Painting
+    2300206: Patio-door-frame
+    2300208: Patio-door-glass
+    2300210: Patio-plants-p
+    2300212: Patio-wood
+    2300214: Patio-wood 1
+    2300216: Patio-wood 2
+    2300218: Patio-wood 3
+    2300220: Patio-wood 4
+    2300222: Patio-wood 5
+    2300224: Pillows
+    2300226: Pink
+    2300228: Placed
+    2300230: Pod
+    2300232: Pot
+    2300234: Propellerworkspace
+    2300236: Purp
+    2300238: Purp-elements
+    2300240: Quilt-pink
+    2300242: Quilt-White
+    2300244: Rail-dark
+    2300246: Rail-dark 1
+    2300248: Rail-dark 2
+    2300250: Rail-dark 3
+    2300252: Rail-dark 4
+    2300254: Rail-dark 5
+    2300256: Robots
+    2300258: Rocklamp
+    2300260: Rocks 1
+    2300262: Rope
+    2300264: Sand
+    2300266: Scene-skybox
+    2300268: Seaweed
+    2300270: Shelf
+    2300272: Ship-parts
+    2300274: Shirt-blue
+    2300276: Shirt-red
+    2300278: Shirt-white
+    2300280: shoe-box
+    2300282: Shrubbery
+    2300284: Skin
+    2300286: Snowman
+    2300288: Sockdud1 1
+    2300290: Sockdud2 1
+    2300292: Sockdud3 1
+    2300294: Socks-pink
+    2300296: Socks-white
+    2300298: Spaceship
+    2300300: Stardust
+    2300302: Stars
+    2300304: Stars 1
+    2300306: Stones
+    2300308: Stones 1
+    2300310: Stuff
+    2300312: Stumps
+    2300314: Succ1
+    2300316: Succ2
+    2300318: Succ3
+    2300320: Succ4
+    2300322: Sun
+    2300324: Tentacle
+    2300326: Tentacle-rocks
+    2300328: Tentacle1-p
+    2300330: Tentacle2-p
+    2300332: Thing
+    2300334: Walls
+    2300336: Walls 1
+    2300338: Walls 2
+    2300340: Walls2
+    2300342: Wallwoodbase
+    2300344: Water
+    2300346: Water 1
+    2300348: Watering-can
+    2300350: Wire
+    2300352: wires
+    2300354: Wood-frame
+    2300356: Wood-handle
+    3300000: Algae
+    3300002: Algae-p
+    3300004: Anchor
+    3300006: Anemone
+    3300008: Anemone-p
+    3300010: Anemone2
+    3300012: Astronaut
+    3300014: Astronaut-fella-base
+    3300016: barnacles
+    3300018: Barnacles-p
+    3300020: Barrel-open
+    3300022: Base
+    3300024: Bed-main
+    3300026: Bed-rug
+    3300028: Bedsleep
+    3300030: Bonsai
+    3300032: Books
+    3300034: Bottle
+    3300036: Brushprop-ie
+    3300038: Building-column-base
+    3300040: Building-foundation
+    3300042: Building-roofrim
+    3300044: Building-roofrim-dark
+    3300046: bulletin-placed
+    3300048: Cactus
+    3300050: Cat
+    3300052: Cd-bits-p
+    3300054: Cd-rainbow-bits
+    3300056: Cd-rocks
+    3300058: Ceiling
+    3300060: Chainlink
+    3300062: Chair 1
+    3300064: Chair-placed
+    3300066: Chest
+    3300068: Chest-lid
+    3300070: Clothes-darkbundle
+    3300072: Clouds
+    3300074: Coral
+    3300076: Coral2
+    3300078: Crab
+    3300080: Crabdud 1
+    3300082: Crane-fixture
+    3300084: Dark-crevice
+    3300086: Dark-green
+    3300088: Desk-clothes-handles
+    3300090: desk-clothes-Wood
+    3300092: Desk-computer-wood
+    3300094: Desk-handle
+    3300096: Desk-main
+    3300098: Desk-main 1
+    3300100: Door
+    3300102: Door-frame
+    3300104: Door-mat
+    3300106: Door-stopper
+    3300108: Drawers
+    3300110: Earth
+    3300112: Eye-iris
+    3300114: Eye-iris-black
+    3300116: EyeLids
+    3300118: Fin 1
+    3300120: Fin-astro-scale
+    3300122: Fin-moonscale
+    3300124: Fins-house-darkgrey
+    3300126: Fins-house-grey
+    3300128: Flag
+    3300130: Floor
+    3300132: Floor 1
+    3300134: Friend
+    3300136: Friend2
+    3300138: Ghosties
+    3300140: Glass
+    3300142: Green
+    3300144: Hair
+    3300146: Hamper
+    3300148: Hamsterball
+    3300150: Hamsterfriend
+    3300152: Haning-plant
+    3300154: Headphones-p
+    3300156: Holes
+    3300158: Hook-things
+    3300160: Jeans
+    3300162: Jellies
+    3300164: Jelly
+    3300166: Key
+    3300168: Kittycoffee
+    3300170: Lamps-p
+    3300172: Lantern
+    3300174: Leaf-light
+    3300176: Moon-base
+    3300178: Moon-bedroomscene
+    3300180: Mouth
+    3300182: Mouth 1
+    3300184: Mouth 2
+    3300186: Neonbits
+    3300188: Net
+    3300190: Netbase
+    3300192: NewLayer0 1
+    3300194: Nightlight 1
+    3300196: Oceanrock
+    3300198: oceanshelf
+    3300200: Origami-butterfly
+    3300202: Ozone
+    3300204: Painting
+    3300206: Patio-door-frame
+    3300208: Patio-door-glass
+    3300210: Patio-plants-p
+    3300212: Patio-wood
+    3300214: Patio-wood 1
+    3300216: Patio-wood 2
+    3300218: Patio-wood 3
+    3300220: Patio-wood 4
+    3300222: Patio-wood 5
+    3300224: Pillows
+    3300226: Pink
+    3300228: Placed
+    3300230: Pod
+    3300232: Pot
+    3300234: Propellerworkspace
+    3300236: Purp
+    3300238: Purp-elements
+    3300240: Quilt-pink
+    3300242: Quilt-White
+    3300244: Rail-dark
+    3300246: Rail-dark 1
+    3300248: Rail-dark 2
+    3300250: Rail-dark 3
+    3300252: Rail-dark 4
+    3300254: Rail-dark 5
+    3300256: Robots
+    3300258: Rocklamp
+    3300260: Rocks 1
+    3300262: Rope
+    3300264: Sand
+    3300266: Scene-skybox
+    3300268: Seaweed
+    3300270: Shelf
+    3300272: Ship-parts
+    3300274: Shirt-blue
+    3300276: Shirt-red
+    3300278: Shirt-white
+    3300280: shoe-box
+    3300282: Shrubbery
+    3300284: Skin
+    3300286: Snowman
+    3300288: Sockdud1 1
+    3300290: Sockdud2 1
+    3300292: Sockdud3 1
+    3300294: Socks-pink
+    3300296: Socks-white
+    3300298: Spaceship
+    3300300: Stardust
+    3300302: Stars
+    3300304: Stars 1
+    3300306: Stones
+    3300308: Stones 1
+    3300310: Stuff
+    3300312: Stumps
+    3300314: Succ1
+    3300316: Succ2
+    3300318: Succ3
+    3300320: Succ4
+    3300322: Sun
+    3300324: Tentacle
+    3300326: Tentacle-rocks
+    3300328: Tentacle1-p
+    3300330: Tentacle2-p
+    3300332: Thing
+    3300334: Walls
+    3300336: Walls 1
+    3300338: Walls 2
+    3300340: Walls2
+    3300342: Wallwoodbase
+    3300344: Water
+    3300346: Water 1
+    3300348: Watering-can
+    3300350: Wire
+    3300352: wires
+    3300354: Wood-frame
+    3300356: Wood-handle
+    4300000: Barnacles-p
+    4300002: Lamps-p
+    4300004: Tentacle2-p
+    4300006: Tentacle1-p
+    4300008: Holes
+    4300010: Rocks
+    4300012: Stones
+    4300014: Walls2
+    4300016: Walls
+    4300018: Jellies
+    4300020: Placed
+    4300022: Cd-bits-p
+    4300024: Anemone-p
+    4300026: Algae-p
+    4300028: Stuff
+    4300030: Algae
+    4300032: Neonbits
+    4300034: Anemone2
+    4300036: Anemone
+    4300038: Stones
+    4300040: Cd-rocks
+    4300042: Coral2
+    4300044: Seaweed
+    4300046: Hook-things
+    4300048: Tentacle-rocks
+    4300050: Tentacle
+    4300052: Rocklamp
+    4300054: Jelly
+    4300056: barnacles
+    4300058: Oceanrock
+    4300060: oceanshelf
+    4300062: Coral
+    4300064: Cd-rainbow-bits
+    4300066: Sand
+    4300068: Moon-bedroomscene
+    4300070: Water
+    4300072: Ship-parts
+    4300074: Mouth
+    4300076: Sockdud2
+    4300078: Sockdud1
+    4300080: Mouth
+    4300082: Mouth
+    4300084: Sockdud3
+    4300086: Brushprop-ie
+    4300088: Bedsleep
+    4300090: Hamsterfriend
+    4300092: Propellerworkspace
+    4300094: Hamsterball
+    4300096: Hair
+    4300098: Crabdud
+    4300100: Succ4
+    4300102: Succ2
+    4300104: Succ3
+    4300106: Succ1
+    4300108: Leaf-light
+    4300110: Haning-plant
+    4300112: Bonsai
+    4300114: Cactus
+    4300116: Patio-plants-p
+    4300118: Chair-placed
+    4300120: Watering-can
+    4300122: Barrel-open
+    4300124: Rope
+    4300126: Netbase
+    4300128: Bottle
+    4300130: Thing
+    4300132: Net
+    4300134: Lantern
+    4300136: Chainlink
+    4300138: Anchor
+    4300140: Key
+    4300142: Chest-lid
+    4300144: Chest
+    4300146: NewLayer0
+    4300148: bulletin-placed
+    4300150: Nightlight
+    4300152: Fin-astro-scale
+    4300154: shoe-box
+    4300156: Crane-fixture
+    4300158: Cat
+    4300160: Origami-butterfly
+    4300162: Ghosties
+    4300164: Snowman
+    4300166: Friend2
+    4300168: Friend
+    4300170: Headphones-p
+    4300172: Kittycoffee
+    4300174: Sun
+    4300176: Scene-skybox
+    4300178: Ozone
+    4300180: Earth
+    4300182: Moon-base
+    4300184: Stars
+    4300186: Fin-moonscale
+    4300188: Flag
+    4300190: Astronaut
+    4300192: Astronaut-fella-base
+    4300194: Spaceship
+    4300196: Crab
+    4300198: Pod
+    4300200: Robots
+    4300202: Eye-iris-black
+    4300204: Eye-iris
+    4300206: Fin
+    4300208: EyeLids
+    4300210: Skin
+    4300212: Water
+    4300214: Fins-house-grey
+    4300216: Fins-house-darkgrey
+    4300218: Glass
+    4300220: Purp
+    4300222: Dark-green
+    4300224: Green
+    4300226: Pink
+    4300228: Base
+    4300230: Patio-door-glass
+    4300232: Patio-door-frame
+    4300234: Door-frame
+    4300236: Door
+    4300238: Door-stopper
+    4300240: Door-mat
+    4300242: wires
+    4300244: Painting
+    4300246: Stardust
+    4300248: Wire
+    4300250: Stars
+    4300252: Floor
+    4300254: Bed-rug
+    4300256: Pot
+    4300258: Shrubbery
+    4300260: Books
+    4300262: Wallwoodbase
+    4300264: Walls
+    4300266: Shelf
+    4300268: Stumps
+    4300270: Pillows
+    4300272: Bed-main
+    4300274: Quilt-White
+    4300276: Quilt-pink
+    4300278: Desk-clothes-handles
+    4300280: Drawers
+    4300282: desk-clothes-Wood
+    4300284: Desk-handle
+    4300286: Desk-main
+    4300288: Dark-crevice
+    4300290: Wood-handle
+    4300292: Desk-main
+    4300294: Chair
+    4300296: Purp-elements
+    4300298: Desk-computer-wood
+    4300300: Wood-frame
+    4300302: Shirt-blue
+    4300304: Socks-pink
+    4300306: Socks-white
+    4300308: Shirt-white
+    4300310: Shirt-red
+    4300312: Jeans
+    4300314: Hamper
+    4300316: Clothes-darkbundle
+    4300318: Clouds
+    4300320: Rail-dark
+    4300322: Patio-wood
+    4300324: Rail-dark
+    4300326: Patio-wood
+    4300328: Rail-dark
+    4300330: Patio-wood
+    4300332: Rail-dark
+    4300334: Patio-wood
+    4300336: Rail-dark
+    4300338: Patio-wood
+    4300340: Rail-dark
+    4300342: Patio-wood
+    4300344: Building-roofrim-dark
+    4300346: Building-roofrim
+    4300348: Building-foundation
+    4300350: Building-column-base
+    4300352: Ceiling
+    4300354: Floor
+    4300356: Walls
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

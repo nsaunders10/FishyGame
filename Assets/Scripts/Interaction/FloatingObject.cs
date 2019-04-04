@@ -38,7 +38,7 @@ public class FloatingObject : MonoBehaviour
 
             if (forceFactor > 0)
             {
-                upLift = (-Physics.gravity) * (forceFactor - rb.velocity.y * bounceDamp);
+                upLift = (-Physics.gravity/2) * (forceFactor - rb.velocity.y * bounceDamp);
                 rb.AddForceAtPosition(upLift, actionPoint);
             }
         }

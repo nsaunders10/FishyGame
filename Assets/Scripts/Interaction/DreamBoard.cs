@@ -75,7 +75,8 @@ public class DreamBoard : MonoBehaviour
             {
                 interactables[i].SetActive(true);
                 interactables[i].transform.position = objectStartPoint.position;
-                interactables[i].transform.SetParent(objectStartPoint.parent);
+                FixedJoint newJoint = interactables[i].AddComponent<FixedJoint>();
+                newJoint.connectedBody = objectStartPoint.parent.gameObject.GetComponent<Rigidbody>();
             }
         }
 
