@@ -44,6 +44,7 @@ public class TapePlayer : MonoBehaviour
     }
     void PlayDelay()
     {
+        tapeAudio.pitch = 1;
         tapeAudio.Play();
 
     }

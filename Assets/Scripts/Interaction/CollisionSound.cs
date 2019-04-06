@@ -14,6 +14,8 @@ public class CollisionSound : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
+        float randy = Random.Range(1f, 1.5f);
+        sound.pitch = randy;
         sound.PlayOneShot(collideClip);
 
     }
